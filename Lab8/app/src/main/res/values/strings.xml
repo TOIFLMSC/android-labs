@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidLab8</string>
+    <string name="permission">This app needs location permissions in order to show its functionality.</string>
+</resources>
